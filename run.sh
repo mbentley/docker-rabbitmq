@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 #RMQ_USER=${RMQ_USER:-guest}
 #RMQ_PASS=${RMQ_PASS:-guest}
